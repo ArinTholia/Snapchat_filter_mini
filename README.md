@@ -56,8 +56,8 @@ It applies real-time face filters and supports interactive hand gesture detectio
 ## ⚙️ Installation
 
 ```bash
-git clone <your-repo-url>
-cd MiniSnapchat
+git clone https://github.com/ArinTholia/Snapchat_filter_mini.git
+cd Snapchat_filter_mini
 pip install opencv-python mediapipe numpy
 python mini_snapchat.py
 ```
